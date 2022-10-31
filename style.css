@@ -133,13 +133,13 @@
 
 /* Completed */
 .todo-tasks__completed .list__item__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list__item .todo-tasks__input {
-  display: none
+  display: none;
 }
 
 .edit-mode .todo-tasks__input {
