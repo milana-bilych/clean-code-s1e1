@@ -24,7 +24,8 @@
 }
 
 @media (max-width:768px) {
-  .header { text-align: center;
+  .header { 
+    text-align: center;
   }
 }
 
@@ -47,7 +48,8 @@
   padding: 0px;
 }
 
-.btn, .todo-tasks__input{
+.btn, 
+.todo-tasks__input{
   outline: none;
 }
 
@@ -66,7 +68,8 @@
 }
 
 /* Heading */
-.todo-task__title, .todo-tasks__label {
+.todo-task__title, 
+.todo-tasks__label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
