@@ -24,8 +24,8 @@
 }
 
 @media (max-width:768px) {
-.header { text-align: center;
-}
+  .header { text-align: center;
+  }
 }
 
 .todo-tasks__input {
@@ -43,12 +43,12 @@
 }
 
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .btn, .todo-tasks__input{
-  outline:none;
+  outline: none;
 }
 
 .btn {
@@ -74,7 +74,7 @@
   padding: 30px 0 10px;
   margin: 0;
   text-transform: uppercase;
-  list-style:none;
+  list-style: none;
 }
 
 .todo-tasks__input {
@@ -139,14 +139,14 @@
 
 /* Edit Task */
 .list__item .todo-tasks__input {
-  display:none
+  display: none
 }
 
 .edit-mode .todo-tasks__input {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .edit-mode .list__item__label {
-  display:none;
+  display: none;
 }
